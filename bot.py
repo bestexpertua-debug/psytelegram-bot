@@ -3,7 +3,7 @@ import threading
 import telebot
 from http.server import HTTPServer, BaseHTTPRequestHandler
 
-TOKEN = "8583878475:AAGS-cdYq3iLBN_32NblHIwhrqhm0f4GS3k"  # <-- сюди токен від BotFather
+TOKEN = "8675791523:AAFg9R4X4NgNr5FvKPKZQB4yn7qPNEZxMag"  # <-- сюди токен від BotFather
 
 bot = telebot.TeleBot(TOKEN)
 
